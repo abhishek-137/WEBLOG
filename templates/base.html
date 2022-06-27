@@ -1,0 +1,40 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>
+        {%block content_name %}
+        {%endblock content_name%}
+
+    </title>
+
+    <link rel="stylesheet" href="{% static "app.css" %}"> 
+    
+    {% block css_files %}
+    {% endblock css_files%}
+  
+</head>
+  <body>
+    <header id="main-navigation">
+      <h1><a href="{% url 'starting_page' %}">Abhishek' Blog</a></h1>
+
+      <nav>
+        <a href="{% url 'posts-page' %}">All Posts</a>
+      </nav>
+    </header>
+    
+    {% block content %}
+    {% endblock content %}
+    <footer id= "connect">
+        
+        <h2>Connect me at</h2><br>
+        <a href="https://www.instagram.com/abhishekshukla.13"><img src="{% static "blog\images\twitter.png"%}"height="50"width="50" ></a>
+        <a href="https://twitter.com/abhisheks_13/"><img src="{% static "blog\images\instagram.png"%}"height="50"width="50"></a>
+        
+    </footer>
+  </body>
+</html>
