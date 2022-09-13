@@ -1,7 +1,7 @@
 # A-blogging-website
 
 
-##How to start the Project
+How to start the Project
 
 - 1 fork the repo.
 - 2 clone to your local machine.
