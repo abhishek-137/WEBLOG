@@ -1,14 +1,15 @@
 ### A-blogging-website
 
-##How to start the Project
--1 fork the repo.
--2 clone to your local machine.
--3 Make sure you have Python3 installed in your system and pip as well
 
--4 Now go to the same directory where the NeevProject Folder is present.
--5 Type on terminal pip install -r requirements.txt.(This Will install all the dependencies for the project)
--6 Now on terminal type python manage.py runserver.
--7 Now ctrl+click on http://127.0.0.1:8000/.
+##How to start the Project
+
+- 1 fork the repo.
+- 2 clone to your local machine.
+- 3 Make sure you have Python3 installed in your system and pip as well
+- 4 Now go to the same directory where the NeevProject Folder is present.
+- 5 Type on terminal pip install -r requirements.txt.(This Will install all the dependencies for the project)
+- 6 Now on terminal type python manage.py runserver.
+- 7 Now ctrl+click on "http://127.0.0.1:8000/."
 
 
 ![image](https://user-images.githubusercontent.com/65975981/189988771-be029f77-66da-48aa-aa24-c00b451cfa30.png)
