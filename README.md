@@ -26,6 +26,6 @@ Snapshot of the Blogging Website
 <br /><br />
 ![image](https://user-images.githubusercontent.com/65975981/189988600-b773a142-0ad1-4d2d-962c-423a1c107a25.png)
 <br /><br />
-![image](https://user-images.githubusercontent.com/65975981/189987812-a56c0143-8f8c-4178-93a2-96f511fa8f0e.png
+![image](https://user-images.githubusercontent.com/65975981/189987812-a56c0143-8f8c-4178-93a2-96f511fa8f0e.png)
 <br /><br />
 ![image](https://user-images.githubusercontent.com/65975981/189988523-6ebafc59-40eb-4c64-ab1c-7a4556b6957a.png)
